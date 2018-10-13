@@ -1,9 +1,11 @@
+//Hier ist ein 4D-Vektor
 class vector4D
 {
     float _x1;
     float _x2;
     float _x3;
     float _x4;
+    float _x5;
 
     vector4D _construct;
 

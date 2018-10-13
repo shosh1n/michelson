@@ -1,3 +1,4 @@
+//Hier ist ein 2-D Vektor
 class vector
 {
   vector _vector;
